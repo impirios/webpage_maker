@@ -1,15 +1,15 @@
-#WEB PAGEMAKER#
+# WEB PAGEMAKER #
 
-##About the project## 
+## About the project ## 
 So this is a webpage builder which is used for creating webpages in HTML and CSS but it has an interface and it is targeted for the people who don't know how to code in HTML and CSS.
 
 
-##steps to use this program##
+## steps to use this program ##
 - first of download the project from above.
 - store that file in any folder but remember the path
 - now build the program using a GCC compiler 
 - now when you will run it it will lead you to various features to customize your webpage 
 - now when the program is finished there will be a index.html file created in the folder where you stored the program
 
-###Key-note###
+### Key-note ###
 Right now this project is in development stage and it does not have much advanced features 
